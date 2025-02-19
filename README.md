@@ -1,1 +1,1 @@
-# API Agenda with Django *Not ready yet!
+# Agenda with Django *Not ready yet! 
